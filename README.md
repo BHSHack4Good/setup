@@ -5,7 +5,7 @@ This is the Phaser.io starter / foundation needed to start making Phaser games. 
 
 You'll need to install
 * node.js https://nodejs.org/en/
-* Cesanta Web Server htps://cesanta.com/binary.html
+* Cesanta Web Server https://cesanta.com/binary.html
 * Git https://git-scm.com/downloads
 Nodejs is needed for the npm package manager which will install all of Phaser's dependencies. Cesanta is a local web server that your game will run on. You need Git to pull and commit from github.
 
